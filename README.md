@@ -17,9 +17,16 @@ I love to work with new technologies and playing with Data and AI.🤖
 ## My Stack
 
 Languages: Python, JavaScript
+<br>
 Backend: Django, Flask
+<br>
 Frontend: HTML5, CSS3, Bootstrap
+<br>
 API: Django REST API
+<br>
 Databases: MySQL, PostgreSQL
+<br>
 Experimenting: Django, Flask, Heroku
+<br>
 Tools: Docker, Git, Github, Bitbucket
+<br>
