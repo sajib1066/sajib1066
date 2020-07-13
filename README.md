@@ -16,12 +16,10 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 ## My Stack
 
-```json
-{
-   "Languages": ["Python", "JavaScript"],
-   "Backend": ["Django","Flask"],
-   "Frontend": ["html", "css", "bootstrap"],
-   "Databases": ["mysql", "postgresql"],
-   "Experimenting": ["Django", "Flask", "Heroku"],
-   "Tools": ["Docker", "Git", "Github", "Bitbucket"]
-}
+Languages: Python, JavaScript
+Backend: Django, Flask
+Frontend: HTML5, CSS3, Bootstrap
+API: Django REST API
+Databases: MySQL, PostgreSQL
+Experimenting: Django, Flask, Heroku
+Tools: Docker, Git, Github, Bitbucket
