@@ -22,7 +22,7 @@ Backend: Django, Flask
 <br>
 Frontend: HTML5, CSS3, Bootstrap
 <br>
-API: Django REST API
+API: Django REST Framework
 <br>
 Databases: MySQL, PostgreSQL
 <br>
