@@ -32,10 +32,6 @@ I love to work with new technologies and playing with Data and AI.🤖
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
-    <td align="center">
-      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-      <br>jQuery
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -59,14 +55,6 @@ I love to work with new technologies and playing with Data and AI.🤖
     <td align="center">
       <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
       <br>Debian
-    </td>
-    <td align="center">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-      <br>PyCharm
-    </td>
-    <td align="center">
-      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
-      <br>WebStorm
     </td>
   </tr>
 </table>
