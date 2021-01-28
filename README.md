@@ -60,7 +60,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 </table>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sajib1066&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066&layout=compact)
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajib1066" alt="sajib1066" />
 ## My Repos
 
