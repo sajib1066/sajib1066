@@ -6,7 +6,7 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sajib1066/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/sajib1066)
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/sajib1066)
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=sajib1066"></a>
 :wave: Hi there, My name is Sajib Hossain.😀 I'm 21 years old, I'm a Software Engineer at Tiger Park Limited.
 I've profound knowledge in Django Framework, Machine Learning, AI Software Development. 
 Currently, I completed Diploma in Computer Science from 🇧🇩. 
@@ -61,6 +61,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sajib1066&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066&layout=compact)
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajib1066" alt="sajib1066" />
 
 ## My Repos
 
