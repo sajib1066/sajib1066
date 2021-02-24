@@ -37,8 +37,8 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>React
     </td>
     <td align="center">
-      <img alt="tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-      <br>Tailwind
+      <img alt="tailwind" height=64px src="https://opencv.org/wp-content/uploads/2021/01/OpenCV-logo.png">
+      <br>OpenCV
     </td>
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
