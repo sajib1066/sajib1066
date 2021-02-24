@@ -33,8 +33,8 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>Vue
     </td>
     <td align="center">
-      <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <br>React
+      <img alt="react" height=64px src="https://user-images.githubusercontent.com/39632170/109031546-077fa800-76ef-11eb-90ee-f49c93b996b7.png">
+      <br>Java
     </td>
     <td align="center">
       <img alt="tailwind" height=64px src="https://opencv.org/wp-content/uploads/2021/01/OpenCV-logo.png">
