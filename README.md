@@ -97,8 +97,8 @@ I love to work with new technologies and playing with Data and AI.🤖
       <br>CentOS
     </td>
     <td align="center">
-      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-      <br>Debian
+      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
+      <br>Ubuntu
     </td>
     <td align="center">
       <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
