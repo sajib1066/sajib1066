@@ -122,6 +122,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sajib1066&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066&layout=compact)
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajib1066" alt="sajib1066" />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajib1066)  
 ## My Repos
 
 [![sajib-notes](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=sajib-notes&show_owner=true)](https://github.com/sajib1066/sajib-notes)
