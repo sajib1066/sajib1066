@@ -16,6 +16,17 @@ I love to work with new technologies and playing with Data and AI.🤖
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/sajib1066" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="center">
+  <sup>Special Announcement:</sup>
+  <br>
+  <a href="https://www.youtube.com/channel/UCsYH30yFN391zg-UUQ8BhTw?sub_confirmation=1">
+    <img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
+  </a>
+  <br>
+  <sub><b>We now have a YouTube Channel</b></sub>
+  <br>
+  <sub>I plan on covering the projects and put more content there<br><a href="https://www.youtube.com/channel/UCsYH30yFN391zg-UUQ8BhTw?sub_confirmation=1">Subscribe to the channel</a>.</sub>
+</p>
 <h2>My Tech Stack</h2>
 <table>
   <tr>
