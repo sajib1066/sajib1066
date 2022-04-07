@@ -13,9 +13,9 @@ Currently, I completed Diploma in Computer Science from 🇧🇩.
 I'm interested in doing research on text and image related problems. 
 I love to work with new technologies and playing with Data and AI.🤖
 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you want to Hire Me then click on the image 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/sajib1066" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.fiverr.com/sajib1066" target="_blank"><img src="https://user-images.githubusercontent.com/39632170/162275116-90d43a18-4a3e-4f19-8cfd-0bab21bb2542.gif" alt="Hire Me" width="150" ></a>
 <p align="center">
   <sup>Special Announcement:</sup>
   <br>
