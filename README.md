@@ -130,5 +130,3 @@ I love to work with new technologies and play with Data and AI 🤖
 
 [![sajib-notes](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=sajib-notes&show_owner=true)](https://github.com/sajib1066/sajib-notes)
 [![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
-
-![snake svg](https://github.com/cihatsolak/cihatsolak/blob/output/github-contribution-grid-snake.svg)
